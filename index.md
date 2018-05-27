@@ -1,6 +1,6 @@
 ## Welcome to the Devlog
 
-You can use the [editor on GitHub](https://github.com/DoseyDeebs/DeebsDev/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here you can check out my games and developments!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
